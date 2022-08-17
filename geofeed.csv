@@ -1,0 +1,7 @@
+# https://datatracker.ietf.org/doc/html/rfc8805
+# https://www.iso.org/obp/ui/#iso:code:3166:PL
+# ip_prefix,alpha2code,region,city,postal_code
+2a0e:b107:c00::/48,,,,
+2a0e:b107:c01::/48,PL,PL-22,Gdańsk,
+2a0e:b107:c02::/48,LU,,,
+2a0e:b107:c03::/48,FR,,,
